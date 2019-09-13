@@ -1,3 +1,4 @@
+/* Base Styles */
 * {
   box-sizing: border-box;
   color: #333;
@@ -8,6 +9,7 @@ body {
   background: #ddd;
 }
 
+/* Portfolio Section */
 .section {
   position: relative;
   width: 900px;
