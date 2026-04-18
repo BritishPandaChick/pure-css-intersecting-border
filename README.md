@@ -1,11 +1,15 @@
 # Pure CSS Intersecting Border Effect
-Codeplayer Pure CSS Intersecting Border Effect project. Made with HTML and CSS.
+Intersecting border effect using text and a button
+
+## Tech Stack
+- HTML
+- CSS
 
 ## Instructions
-Clone or download zip file. Open index.html file in your browser.
-
-## Contributing
-This repository is based on starter code from TheCodePlayer.com. Therefore I will not be accepting any pull requests.
+1. Clone or download zip file. 
+2. Open index.html file in your browser.
+3. You will see border interstecting with the headline while the paragraph text and button are wrapped inside.
 
 ## Acknowledgements
 * TheCodePlayer.com
+* Google Fonts
